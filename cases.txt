@@ -1,0 +1,239 @@
+ID: 001
+Predmět: Dopravní nehoda
+Popis: Řidič způsobil dopravní nehodu na křižovatce.
+Paragrafy: § 12, § 14
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 6 měsíců podmíněně, zákaz řízení
+Odvolání: Ano
+
+ID: 002
+Predmět: Daňový podvod
+Popis: Obžalovaný zatajil příjem z pronájmu nemovitosti.
+Paragrafy: § 240
+Rozhodnutí: Ve prospěch obžalovaného
+Trest: Žádný
+Odvolání: Ne
+
+ID: 003
+Predmět: Krádež
+Popis: Obžalovaný ukradl zboží v obchodě.
+Paragrafy: § 205
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 3 měsíce podmíněně
+Odvolání: Ne
+
+ID: 004
+Předmět: Krádež
+Popis: Obžalovaný ukradl elektroniku z obchodu během noci.
+Paragrafy: § 205, § 209
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 8 měsíců podmíněně
+Odvolání: Ne
+
+ID: 005
+Předmět: Podvod
+Popis: Obžalovaný podvedl klienta při uzavírání smlouvy o půjčce.
+Paragrafy: § 209
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 12 měsíců podmíněně
+Odvolání: Ano
+
+ID: 006
+Předmět: Úmyslné ublížení na zdraví
+Popis: Obžalovaný fyzicky napadl souseda během hádky.
+Paragrafy: § 146, § 147
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 14 měsíců podmíněně
+Odvolání: Ne
+
+ID: 007
+Předmět: Dopravní nehoda
+Popis: Řidič způsobil dopravní nehodu kvůli rychlé jízdě v obci.
+Paragrafy: § 12, § 14
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 10 měsíců podmíněně, zákaz řízení
+Odvolání: Ano
+
+ID: 008
+Předmět: Poškození cizí věci
+Popis: Obžalovaný zničil soukromé vybavení v bytě souseda.
+Paragrafy: § 228
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 6 měsíců podmíněně
+Odvolání: Ne
+
+ID: 009
+Předmět: Krádež
+Popis: Obžalovaný ukradl peněženku v MHD.
+Paragrafy: § 205
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 5 měsíců podmíněně
+Odvolání: Ano
+
+ID: 010
+Předmět: Dopravní nehoda
+Popis: Řidič způsobil nehodu při couvání na parkovišti.
+Paragrafy: § 12, § 14
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 4 měsíce podmíněně
+Odvolání: Ne
+
+ID: 011
+Předmět: Krádež
+Popis: Obžalovaný ukradl mobilní telefon ve škole.
+Paragrafy: § 205
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 2 měsíce podmíněně
+Odvolání: Ne
+
+ID: 012
+Předmět: Podvod
+Popis: Obžalovaný podvedl zákazníka při prodeji falešného zboží.
+Paragrafy: § 209
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 10 měsíců podmíněně
+Odvolání: Ano
+
+ID: 013
+Předmět: Úmyslné ublížení na zdraví
+Popis: Obžalovaný napadl spolupracovníka během hádky v práci.
+Paragrafy: § 146
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 12 měsíců podmíněně
+Odvolání: Ne
+
+ID: 014
+Předmět: Dopravní nehoda
+Popis: Řidič způsobil nehodu při přejíždění kruhového objezdu.
+Paragrafy: § 12, § 14
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 6 měsíců podmíněně, zákaz řízení
+Odvolání: Ano
+
+ID: 015
+Předmět: Poškození cizí věci
+Popis: Obžalovaný poškodil vybavení kanceláře při hádce.
+Paragrafy: § 228
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 5 měsíců podmíněně
+Odvolání: Ne
+
+ID: 016
+Předmět: Krádež
+Popis: Obžalovaný ukradl kabelky v obchodním centru.
+Paragrafy: § 205
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 6 měsíců podmíněně
+Odvolání: Ano
+
+ID: 017
+Předmět: Podvod
+Popis: Obžalovaný zfalšoval faktury pro získání půjčky.
+Paragrafy: § 240
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 8 měsíců podmíněně
+Odvolání: Ne
+
+ID: 018
+Předmět: Úmyslné ublížení na zdraví
+Popis: Obžalovaný uhodil souseda pěstí do obličeje.
+Paragrafy: § 146, § 147
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 14 měsíců podmíněně
+Odvolání: Ano
+
+ID: 019
+Předmět: Dopravní nehoda
+Popis: Řidič způsobil nehodu při sjíždění ze sjezdu.
+Paragrafy: § 12, § 14
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 7 měsíců podmíněně
+Odvolání: Ne
+
+ID: 020
+Předmět: Poškození cizí věci
+Popis: Obžalovaný poškodil auto souseda při hádce.
+Paragrafy: § 228
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 4 měsíce podmíněně
+Odvolání: Ano
+
+ID: 021
+Předmět: Krádež
+Popis: Obžalovaný ukradl notebook v kavárně.
+Paragrafy: § 205
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 3 měsíce podmíněně
+Odvolání: Ne
+
+ID: 022
+Předmět: Podvod
+Popis: Obžalovaný podvedl zákazníka při online nákupu.
+Paragrafy: § 209
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 6 měsíců podmíněně
+Odvolání: Ano
+
+ID: 023
+Předmět: Úmyslné ublížení na zdraví
+Popis: Obžalovaný ublížil spolužákovi při rvačce ve škole.
+Paragrafy: § 146
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 8 měsíců podmíněně
+Odvolání: Ne
+
+ID: 024
+Předmět: Dopravní nehoda
+Popis: Řidič způsobil nehodu na parkovišti při couvání.
+Paragrafy: § 12, § 14
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 4 měsíce podmíněně
+Odvolání: Ano
+
+ID: 025
+Předmět: Poškození cizí věci
+Popis: Obžalovaný rozbil okno v obchodě.
+Paragrafy: § 228
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 3 měsíce podmíněně
+Odvolání: Ne
+
+ID: 026
+Předmět: Krádež
+Popis: Obžalovaný ukradl peníze z peněženky v kavárně.
+Paragrafy: § 205
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 2 měsíce podmíněně
+Odvolání: Ano
+
+ID: 027
+Předmět: Podvod
+Popis: Obžalovaný podvedl klienta při investici do podvodu.
+Paragrafy: § 209
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 12 měsíců podmíněně
+Odvolání: Ne
+
+ID: 028
+Předmět: Úmyslné ublížení na zdraví
+Popis: Obžalovaný fyzicky napadl kolegu v práci.
+Paragrafy: § 146, § 147
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 10 měsíců podmíněně
+Odvolání: Ano
+
+ID: 029
+Předmět: Dopravní nehoda
+Popis: Řidič způsobil nehodu na kruhovém objezdu.
+Paragrafy: § 12, § 14
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 5 měsíců podmíněně
+Odvolání: Ne
+
+ID: 030
+Předmět: Krádež
+Popis: Obžalovaný ukradl elektroniku z auta.
+Paragrafy: § 205
+Rozhodnutí: Ve prospěch prokuratury
+Trest: 7 měsíců podmíněně
+Odvolání: Ano
